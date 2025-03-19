@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação/Sistema para Internet
-Guilherme Ramalho
-Tópicos Essenciais para progamação
+Respondendo a lista de exercício do GitHub
